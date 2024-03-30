@@ -1,5 +1,5 @@
 <h1 align="center">
-  <a href="https://demo.reactadmin.com/bootstrap/dashly" title="React Admin">React Admin Dashboard Bootstrap version</a>
+  <a href="https://demo.reactadmin.com/bootstrap/dashly" title="React Admin">Dashly Dashboard Bootstrap version</a>
 </h1>
 
 ![Sufee admin dashboard template preview](https://colorlib.com/wp/wp-content/uploads/sites/2/sufee-free-modern-admin-dashboard-template.jpg)
@@ -11,7 +11,8 @@ Admin Bootstrap Dashboard React has multiple handpicked and optimized components
 
 It comes with 3 filter colors for the top navbar abd sidebar (`white`, `black`, `red`) and an option to have a background image. 4 layout variations (`vertical`, `horizontal`, `combo`, `dual nav`) to change the layout design.
 
--   <a title="demo-site" href="https://demo.reactadmin.com/bootstrap/dashly"><strong>Demo Site</strong></a>
+-
+    <a title="demo-site" href="https://demo.reactadmin.com/bootstrap/dashly"><strong>Demo Site</strong></a>
     &#x2022;
     <a title="quick-start" href="#quick-start"><strong>Quick Start</strong></a>
     &#x2022;
@@ -32,7 +33,7 @@ Quick start options:
 -   Clone the repo:
 
 ```
-git clone https://github.com/reactadmins/bootstrap-dashly.git.com
+git clone https://github.com/reactadmins/bootstrap/dashly.git.com
 ```
 
 ### Installation
