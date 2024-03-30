@@ -32,10 +32,6 @@ const routes = [
         component: Dashboard,
     },
     {
-        path: ".",
-        component: Dashboard,
-    },
-    {
         path: "/dashboard",
         component: Dashboard,
     },

@@ -1,20 +1,6 @@
 <h1 align="center">
-  <a href="https://www.google.com/" title="Quill">React Admin Dashboard Bootstrap version</a>
+  <a href="https://demo.reactadmin.com/bootstrap-dashly" title="React Admin">React Admin Dashboard Bootstrap version</a>
 </h1>
-
-<p align="center">
-  <a href="https://github.com/quilljs/quill/actions" title="Build Status">
-    <img src="https://github.com/quilljs/quill/actions/workflows/main.yml/badge.svg" alt="Build Status">
-  </a>
-  <a href="https://npmjs.com/package/quill" title="Version">
-    <img src="https://img.shields.io/npm/v/quill.svg" alt="Version">
-  </a>
-  <a href="https://npmjs.com/package/quill" title="Downloads">
-    <img src="https://img.shields.io/npm/dm/quill.svg" alt="Downloads">
-  </a>
-</p>
-
-### Preview
 
 ![Sufee admin dashboard template preview](https://colorlib.com/wp/wp-content/uploads/sites/2/sufee-free-modern-admin-dashboard-template.jpg)
 
@@ -25,16 +11,14 @@ Admin Bootstrap Dashboard React has multiple handpicked and optimized components
 
 It comes with 3 filter colors for the top navbar abd sidebar (`white`, `black`, `red`) and an option to have a background image. 4 layout variations (`vertical`, `horizontal`, `combo`, `dual nav`) to change the layout design.
 
-### Table of Contents
-
--   [Demo Site](demo-site)
-    <a title="demo-site"  href="https://demo.reactadmin.com/bootstrap-basix-admin"><strong>Demo Site</strong></a>
+-
+    <a title="demo-site" href="https://demo.reactadmin.com/bootstrap-dashly"><strong>Demo Site</strong></a>
     &#x2022;
     <a title="quick-start" href="#quick-start"><strong>Quick Start</strong></a>
     &#x2022;
     <a title="installation" href="#installation"><strong>Installation</strong></a>
     &#x2022;
-    <a title="documentation"href="#"><strong>Documentation</strong></a>
+    <a title="documentation" href="https://demo.reactadmin.com/bootstrap/dashly/docs/"><strong>Documentation</strong></a>
     &#x2022;
     <a title="built-with" href="#built-with"><strong>Built With</strong></a>
     &#x2022;
@@ -49,24 +33,50 @@ Quick start options:
 -   Clone the repo:
 
 ```
-git clone https://github.com/reactadmins/bootstrap-basix-admin.git.com
+git clone https://github.com/reactadmins/bootstrap-dashly.git.com
 ```
 
 ### Installation
 
-    #install
-    npm install
+#### npm
 
-    #run development server
-    npm run dev
+```
+  npm install
+```
 
-    or
+run development server
 
-    #install
-    yarn install
+```
+  npm run dev
+```
 
-    #run development server
-    yarn run dev
+or
+
+#### yarn
+
+```
+  yarn install
+```
+
+run development server
+
+```
+  yarn run dev
+```
+
+and
+
+#### pnpm
+
+```
+  pnpm install
+```
+
+run development server
+
+```
+  pnpm run dev
+```
 
 ### Built With
 
@@ -280,7 +290,7 @@ React Admin Dashboard Bootstrap
 
 ### License
 
-MIT License Copyright (c) 2024 Jewel Theme
+MIT License Copyright (c) 2024 React Admin
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
